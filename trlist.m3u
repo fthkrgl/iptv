@@ -1,17 +1,17 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="TRTCocuk.tr@SD",TRT Cocuk (1440p)
+#EXTINF:-1 tvg-id="TRTCocuk.tr@SD" group-title="TR",TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1440p)
+#EXTINF:-1 tvg-id="TRT1.tr@SD" group-title="TR",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD",TRT Belgesel (720p)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" group-title="TR",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD",TRT Diyanet Çocuk (720p)
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" group-title="TR",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr@SD",A Haber (1080p)
+#EXTINF:-1 tvg-id="AHaber.tr@SD" group-title="TR",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1 tvg-id="ATV.tr@SD",ATV (1080p)
+#EXTINF:-1 tvg-id="ATV.tr@SD" group-title="TR",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-id="DiyanetTV.tr@SD",Diyanet TV (1080p)
+#EXTINF:-1 tvg-id="DiyanetTV.tr@SD" group-title="TR",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DostTV.tr@SD",Dost TV (576p)
+#EXTINF:-1 tvg-id="DostTV.tr@SD" group-title="TR",Dost TV
 https://dost.stream.emsal.im/tv/live.m3u8
