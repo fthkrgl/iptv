@@ -85,3 +85,9 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1 tvg-id="StarTV.tr@SD" group-title="Ulusal",Star TV (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 tvg-id="SRF1.ch@SD" group-title="CH",SRF 1 (AC3 deu)
+rtp://239.186.64.2:10000
+#EXTINF:-1 tvg-id="SRFzwei.ch@SD" group-title="CH",SRF zwei (AC3 deu)
+rtp://239.186.64.3:10000
+#EXTINF:-1 tvg-id="SRFinfo.ch@SD" group-title="CH,SRF info (AC3 deu)
+rtp://239.186.64.4:10000
