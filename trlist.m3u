@@ -27,3 +27,11 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr@SD" group-title="TR",HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-id="Kanal7.tr@SD" group-title="TR",Kanal 7 (1080p) [Not 24/7]
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr@SD" group-title="TR",Kanal D (1080p)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" group-title="TR",Kanal D Drama (1080p)
+http://8.243.126.131:8000/play/a0mn/index.m3u8
+#EXTINF:-1 tvg-id="LalegulTV.tr@SD" group-title="TR",Lalegul TV (1080p)
+https://lbl.netmedya.net/hls/lalegultv.m3u8
