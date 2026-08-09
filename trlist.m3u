@@ -55,3 +55,11 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="24TV.tr@SD" group-title="Haber",TR24 TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr@SD" group-title="TR",TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr@SD" group-title="TR",TRT Türk (720p)
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="TR",TRT World (1080p) [Not 24/7]
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TurkHaberTV.tr@SD" group-title="TR",TürkHaber (720p)
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
